@@ -5,6 +5,7 @@
 This document outlines the design of a scalable and resilient three-tier architecture on Amazon Web Services (AWS) for a web application that accepts requests from the internet and queries a MySQL database to return data to clients. The architecture leverages various AWS services, including Amazon Virtual Private Cloud (Amazon VPC), Amazon Elastic Compute Cloud (Amazon EC2), Amazon Relational Database Service (Amazon RDS) with high availability, and Elastic Load Balancing (ELB) to ensure efficient traffic flow and reliable performance.
 
 ## Architecture Diagram
+#(still a work in progress)
 ![1st picture](https://github.com/devYomade/Three-Tier-Web-Application-Architecture-on-AWS/assets/105651785/37500e71-8695-4504-bc35-417893cb6181)
 
 
